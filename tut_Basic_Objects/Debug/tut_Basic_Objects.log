@@ -1,0 +1,129 @@
+﻿  drawLib.cpp
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(10,11): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(10,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Cat"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(12,21): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "f"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(12,24): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(12,24): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(58,23): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "f"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(58,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(58,26): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(246,10): error C2065: GL_QUADS: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(246,2): error C3861: glBegin: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(247,2): error C3861: glColor3f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(248,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(249,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(250,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(251,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(252,2): error C3861: glEnd: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(255,10): error C2065: GL_TRIANGLES: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(255,2): error C3861: glBegin: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(256,2): error C3861: glColor3f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(257,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(258,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(259,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(261,2): error C3861: glColor3f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(262,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(263,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(264,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(266,2): error C3861: glColor3f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(267,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(268,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(269,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(270,2): error C3861: glEnd: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(273,22): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "f"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(273,25): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(273,25): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(292,21): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "f"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(292,24): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(292,24): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(347,23): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "f"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(347,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(347,26): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(404,10): error C2065: GL_QUADS: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(404,2): error C3861: glBegin: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(405,2): error C3861: glColor3f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(406,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(407,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(408,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(409,2): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(410,2): error C3861: glEnd: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(413,22): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "f"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(413,25): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(413,25): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(433,10): error C2065: GL_TRIANGLE_FAN: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(433,2): error C3861: glBegin: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(434,28): error C2065: M_PI: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(434,39): error C2065: M_PI: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(435,3): error C3861: glColor3f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(436,15): error C3861: cos: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(436,37): error C3861: sin: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(436,3): error C3861: glVertex2f: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(438,2): error C3861: glEnd: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(454,20): warning C4305: +=: усечение из "double" в "float"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(458,20): warning C4305: -=: усечение из "double" в "float"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(462,2): error C3861: glutPostRedisplay: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(463,2): error C3861: glutTimerFunc: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(466,22): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "f"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(466,25): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(466,25): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(520,2): error C2065: curTime: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(520,12): error C3861: clock: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(520,22): error C2065: startTime: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(522,2): error C2065: Cat: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(523,2): error C2065: Cat: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(523,14): error C2065: curTime: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(523,10): error C3861: sin: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(524,2): error C2065: Cat: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(526,2): error C2065: Kotik: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(527,2): error C2065: Kotik: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(527,16): error C2065: curTime: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(527,12): error C3861: sin: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(528,2): error C2065: Kotik: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(530,2): error C2065: House: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(530,16): error C2065: curTime: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(530,12): error C3861: sin: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(531,2): error C2065: House: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(531,16): error C2065: curTime: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(531,12): error C3861: sin: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(532,2): error C2065: House: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(534,2): error C2065: Mush: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(535,2): error C2065: Mush: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(535,15): error C2065: curTime: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(535,11): error C3861: sin: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(536,2): error C2065: Mush: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(536,15): error C2065: curTime: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(536,11): error C3861: sin: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(538,2): error C2065: Flag: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(539,2): error C2065: Flag: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(540,2): error C2065: Flag: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(542,2): error C2065: Car: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(543,2): error C2065: Car: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(544,2): error C2065: Car: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(546,2): error C3861: glPushMatrix: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(548,2): error C2065: curTime: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(548,12): error C3861: clock: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(548,22): error C2065: startTime: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\drawLib.cpp(548,31): fatal error C1003: число ошибок превышает 100; остановка компиляции
+  main.cpp
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(9,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(9,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "curTime"
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(15,2): error C3861: glutInit: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(16,22): error C2065: GLUT_DEPTH: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(16,35): error C2065: GLUT_DOUBLE: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(16,49): error C2065: GLUT_RGBA: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(16,2): error C3861: glutInitDisplayMode: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(17,2): error C3861: glutInitWindowPosition: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(18,2): error C3861: glutInitWindowSize: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(19,2): error C3861: glutCreateWindow: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(20,2): error C3861: glutDisplayFunc: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(21,27): error C2065: animateScene: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(21,2): error C3861: glutTimerFunc: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(22,2): error C2065: startTime: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(22,14): error C3861: clock: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(23,2): error C3861: glutMainLoop: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(28,10): error C2065: GL_COLOR_BUFFER_BIT: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(28,32): error C2065: GL_DEPTH_BUFFER_BIT: необъявленный идентификатор
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(28,2): error C3861: glClear: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(30,2): error C3861: draw: идентификатор не найден
+C:\Users\huawei\Desktop\РИСУНКИ НА АИП\1\Рабочий проект\tut_Basic_Objects\main.cpp(32,2): error C3861: glutSwapBuffers: идентификатор не найден
+  Создание кода...
